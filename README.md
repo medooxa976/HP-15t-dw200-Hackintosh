@@ -1,5 +1,9 @@
 # HP-15t-dw200-Hackintosh
 Working Hackintosh EFI for HP 15t-dw200 with Intel Core i5-1035G1
+
+![Hackintosh Screenshot](IMG_4483.png)
+
+
 EFI Download
 
 The complete EFI folder is available here:https://drive.google.com/file/d/15ZlqfB_hS344MCmMVjZwWYO16irlvJyW/view?usp=sharing
