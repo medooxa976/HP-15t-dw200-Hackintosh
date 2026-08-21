@@ -65,14 +65,11 @@ Status
 🔴 AirDrop
 ❌ Not Working
 
-
 Notes
 	•	Wi-Fi: Intel AX201 is working using itlwm.kext with HeliPort.
-
 	
 	•	Audio: Working using HDAUniversal. HDAUniversal: https://www.insanelymac.com/forum/topic/362932-hdauniversal-applehda-like-audio-kext-for-macos-tahoe-and-hackintosh-systems/
 
-	
 	•	AirDrop: Currently not working. This is the only known non-working feature.
 	
 Overall Result
