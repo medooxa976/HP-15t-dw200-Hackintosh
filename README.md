@@ -20,14 +20,18 @@ Laptop Specifications
 	
 ## Screenshots
 
-### Screenshot 1
 
-![Hackintosh Screenshot 1](a1.png)
+Hardware## Screenshots
 
-### Screenshot 2
+### Hackintosh Screenshot 1
 
-![Hackintosh Screenshot 2](a2.png)	
-Hardware & Features Status
+![Hackintosh Screenshot 1](a1.jpg)
+
+### Hackintosh Screenshot 2
+
+![Hackintosh Screenshot 2](a2.jpg)
+
+& Features Status
 Feature
 Status
 🟢 Intel UHD Graphics
