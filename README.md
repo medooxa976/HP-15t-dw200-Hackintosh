@@ -18,6 +18,15 @@ Laptop Specifications
 	•	Bootloader: OpenCore
 
 	
+## Screenshots
+
+### Screenshot 1
+
+![Hackintosh Screenshot 1](a1.png)
+
+### Screenshot 2
+
+![Hackintosh Screenshot 2](a2.png)	
 Hardware & Features Status
 Feature
 Status
