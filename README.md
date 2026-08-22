@@ -39,9 +39,8 @@ Hardware## Screenshots
 
 ![Hackintosh Screenshot 2](a2.jpg)
 
-& Features Status
-Feature
-Status working
+ working
+
 🟢 Intel UHD Graphics
 
 🟢 Wi-Fi – Intel AX201
@@ -82,7 +81,5 @@ Notes
 
 	•	AirDrop: Currently not working. This is the only known non-working feature.
 	
-Overall Result
-14 / 15 features working 🟢 Fully functional for daily macOS use 🔴 AirDrop is the only known issue
 This EFI is provided as a reference for users with the same or similar hardware configuration.
 IMPORTANT: Before using this EFI, generate your own SMBIOS values. Do not use the included Serial Number, MLB, ROM, or System UUID.
