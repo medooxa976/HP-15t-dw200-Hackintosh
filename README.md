@@ -41,56 +41,37 @@ Hardware## Screenshots
 
 & Features Status
 Feature
-Status
+Status working
 🟢 Intel UHD Graphics
-
-✅ Working
 
 🟢 Wi-Fi – Intel AX201
 
-✅ Working
-
 🟢 Audio
-
-✅ Working
 
 🟢 Brightness Control
 
-✅ Working
-
 🟢 Brightness Keys
-
-✅ Working
 
 🟢 Bluetooth
 
-✅ Working
-
 🟢 Battery Percentage
-
-✅ Working
 
 🟢 App Store
 
-✅ Working
-
 🟢 Location Services
-
-✅ Working
 
 🟢 Sleep
 
-✅ Working
 🟢 Shutdown
 
-✅ Working
 🟢 USB Ports
 
-✅ Working
 🟢 Trackpad
-✅ Working
+
 🟢 Keyboard
-✅ Working
+
+
+Not Working 
 🔴 AirDrop
 ❌ Not Working
 
