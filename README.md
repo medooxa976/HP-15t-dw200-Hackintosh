@@ -24,21 +24,6 @@ Laptop Specifications
 	
 	•	Bootloader: OpenCore
 	
-
-	
-## Screenshots
-
-
-Hardware## Screenshots
-
-### Hackintosh Screenshot 1
-
-![Hackintosh Screenshot 1](a1.jpg)
-
-### Hackintosh Screenshot 2
-
-![Hackintosh Screenshot 2](a2.jpg)
-
  working
 
 🟢 Intel UHD Graphics
@@ -83,3 +68,14 @@ Notes
 	
 This EFI is provided as a reference for users with the same or similar hardware configuration.
 IMPORTANT: Before using this EFI, generate your own SMBIOS values. Do not use the included Serial Number, MLB, ROM, or System UUID.
+
+
+## Screenshots
+
+### Hackintosh Screenshot 1
+
+![Hackintosh Screenshot 1](a1.jpg)
+
+### Hackintosh Screenshot 2
+
+![Hackintosh Screenshot 2](a2.jpg)
